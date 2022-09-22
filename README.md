@@ -1,9 +1,8 @@
 # AppSwim
 Entregable - Policichio
+Colaboradores: Mateo, Gian, Martín Policichio
 
-Colaboradores: Mateo, Gian, MArtín
-
-Pagina de inicio en entorno local:
+Página de inicio en entorno local:
 http://127.0.0.1:8000/AppSwim/inicio/
 
 Se puede ver on-line en pythonanywhere.com:
