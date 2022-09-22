@@ -1,0 +1,14 @@
+{% extends "inicio.html" %}
+{% load static %}
+<!-- <link rel="stylesheet" href="{%static 'css/miestilo.css'%}">
+<link rel="stylesheet" href="{% static 'css\bootstrap.min.css' %}"> -->
+{% block contenido %}
+    <p>> Registrar Nadador...</p>
+    <form class="formData" action="/AppSwim/create_nadadores/" method="POST">{% csrf_token %}
+        <input type="text" name="nombre" placeholder="Nombre">
+        <input type="text" name="apellido" placeholder="Apellido">
+        <input type="email" name="email" placeholder="Email">
+        <input type="number" name="edad" placeholder="Edad">
+        <button type="submit" class="btn btn-primary">Registrar</button>
+    </form>
+{% endblock %}

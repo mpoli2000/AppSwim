@@ -1,0 +1,26 @@
+.contenido{
+    position: relative;
+    top: 60px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.contenidoEstudiantes{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.formData{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+/*soy un comentatio*/
