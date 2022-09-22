@@ -1,6 +1,5 @@
 # AppSwim
-Entregable - Policichio
-Colaboradores: Mateo, Gian, Martín Policichio
+Entregable: TRABAJO FINAL - PRIMERA ENTREGA
 
 Página de inicio en entorno local:
 http://127.0.0.1:8000/AppSwim/inicio/
